@@ -52,9 +52,11 @@ I use IDE IntelliJ IDEA & PyCharm by JetBrains and AndroidStudio, Visual Studio 
 
 ### Expierence ###
 Here's some tasks from RS School FrontEnd course stage 0 
+
 https://github.com/Alitalia60/tic-tac-toe/tree/gh-pages/tic-tac-toe
 
 and from RS SChool Node.js course
+
 https://github.com/Alitalia60/simple-crud-api/tree/simple_crud_api
 
 
