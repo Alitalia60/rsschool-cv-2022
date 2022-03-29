@@ -30,6 +30,7 @@ export function updateBoard(boardId: string, ctxBody: IBoard): void {
     if (board) {
     board.title = ctxBody.title;
     board.columns = ctxBody.columns}
+}
 ```
 
 I like to learn everything new in programming.
