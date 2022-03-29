@@ -1,20 +1,36 @@
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+# Andrew Litvinov 
 
-Рекомендации к составлению CV:
-оформление CV на ваше усмотрение. Старайтесь выполнить работу максимально качественно. При выборе дизайна CV можно руководствоваться примерами, приведёнными в материалах к заданию
-CV составляется на английском языке.
-при составлении CV рекомендуется указывать реальные данные
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-в CV укажите актуальные контакты для связи, в т.ч никнейм на дискорд-сервере rs school
-в качестве примера кода приведите решение задачи с сайта Codewars.
-Если решённых задач пока нет, подойдёт задача, которую нужно решить при регистрации на Codewars
-код добавляется при помощи символов и тегов, а не картинкой
-для выполненных проектов добавьте название проекта, ссылку на код проекта на гитхабе или ссылку на страницу проекта.
-Если выполненных проектов пока нет, в качестве первого проекта укажите само CV
+## About myself
+I'm an older person, but I use programming almost every day at my workplace. My experience in programming is long but not modern.
+At start of my work I used some systems as FoxBase (*dbf database*), Clarion (*TopSpeed database*) and developed some programs, which worked long time.
+
+Now, I want to study HTML, CSS, JavaScript In RS School.
+
+## Work experience
+I haven't experience in any IT but have it in my business.
+<br>
+As engineer , I was created some electronic units on microcontrollers, and create programs for it on Assembler.
+At my job, developed specific database fo enterprise, payment accounting program for utilities, for cable TV.
+<br>
+Just now working as a sysadmin at own company and continue to support some businesses that do not have their own sysadmin.
+
+## Education
+Higher education: Yuri Gagarin State Technical
+University of Saratov (modern name). Engineer, specialty automation and telemechanics. 
+
+## Self-education
+- Platforms 1C6, 1C7, 1C8 Enterprise;
+- Python;
+- Java for Android;
+
+I use IDE IntelliJ IDEA & PyCharm by JetBrains and AndroidStudio .
+
+## Languages
+- Russian - perfectly
+- English - A2 (Pre-Intermediate). Haven't practice.
+
+## Contacts
+---
+- viber/tel: *+375297710759*
+- Skype: *Alitalia60*
+- E-mail: *lita.study@bk.ru*
