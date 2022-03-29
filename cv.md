@@ -53,7 +53,7 @@ I use IDE IntelliJ IDEA & PyCharm by JetBrains and AndroidStudio, Visual Studio 
 ### Expierence ###
 Here's some tasks from RS School FrontEnd course stage 0 
 
-https://github.com/Alitalia60/tic-tac-toe/tree/gh-pages/tic-tac-toe
+https://rolling-scopes-school.github.io/alitalia60-JSFEPRESCHOOL/tic-tac-toe/
 
 and from RS SChool Node.js course
 
