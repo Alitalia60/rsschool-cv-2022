@@ -2,7 +2,7 @@
 
 ### Contacts ###
 
-* viber/tel: +375297710759
+* viber/tel: +3752900000000
 * Skype: Alitalia60
 * E-mail: lita.study@bk.ru
 * discord: Alitalia60#5200
@@ -22,6 +22,16 @@ Here is some code example from 1C Enterprise:
 	КонецЕсли;
 КонецПроцедуры
 ```
+
+and some code from Node.js
+```
+export function updateBoard(boardId: string, ctxBody: IBoard): void {
+    let board = dbBoards.filter((board) => board.id === boardId)[0];
+    if (board) {
+    board.title = ctxBody.title;
+    board.columns = ctxBody.columns}
+```
+
 I like to learn everything new in programming.
 Now, I study HTML, CSS, JavaScript, Node.js, TypeScript and a lot other usefull and interesting things at school.
 
@@ -38,6 +48,14 @@ Platforms 1C6, 1C7, 1C8 Enterprise. in the process of studying: JavaScript, Node
 Study to familiarize Java for Android, Python;
 I use IDE IntelliJ IDEA & PyCharm by JetBrains and AndroidStudio, Visual Studio Code.
 2022 - RS School PreSchool Front End courses
+
+### Expierence ###
+Here's some tasks from RS School FrontEnd course stage 0 
+https://github.com/Alitalia60/tic-tac-toe/tree/gh-pages/tic-tac-toe
+
+and from RS SChool Node.js course
+https://github.com/Alitalia60/simple-crud-api/tree/simple_crud_api
+
 
 ### Languages ###
 Russian - perfectly
