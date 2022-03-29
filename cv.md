@@ -9,21 +9,9 @@
 
 ### About myself ###
 I am an entrepreneur. my work is always close to computers and programming. I have no experience in modern IT although my experience in programming such as 1C Enterprise is long.
-Here is some code example from 1C Enterprise:
- ```
-Процедура ПриОткрытии()
-	// Вставить содержимое обработчика.
-	ПриЗаписиПерепроводить	=Ложь;
-	Если Курс=0 Тогда
-		Курс = ?(ЭтоНовый(), ОбщийМодуль1.глКурсВалюты(Константы.ВалютаУчета.Получить(), Дата), Курс);
-	КонецЕсли;
-	Если НЕ Контрагент.Пустая() тогда
-		ПроверкаНаЧерныйСписок(Контрагент)
-	КонецЕсли;
-КонецПроцедуры
-```
 
-and some code from Node.js
+Here is some code example from Node.js
+
 ```
 export function updateBoard(boardId: string, ctxBody: IBoard): void {
     let board = dbBoards.filter((board) => board.id === boardId)[0];
@@ -33,6 +21,20 @@ export function updateBoard(boardId: string, ctxBody: IBoard): void {
 }
 ```
 
+and task from Codewars
+
+```
+var countBits = function(n) {
+  // Program Me
+      let res = 0;
+    let binaryN = n.toString(2)
+        // console.log(binaryN);
+    for (let index = 0; index < binaryN.length; index++) {
+        res += Number(binaryN[index])
+    }
+    return res
+};
+```
 I like to learn everything new in programming.
 Now, I study HTML, CSS, JavaScript, Node.js, TypeScript and a lot other usefull and interesting things at school.
 
