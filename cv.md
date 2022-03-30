@@ -1,0 +1,70 @@
+# Andrew Litvinov #
+
+### Contacts ###
+
+* viber/tel: +3752900000000
+* Skype: Alitalia60
+* E-mail: lita.study@bk.ru
+* discord: Alitalia60#5200
+
+### About myself ###
+I am an entrepreneur. my work is always close to computers and programming. I have no experience in modern IT although my experience in programming such as 1C Enterprise is long.
+
+Here is some code example from Node.js
+
+```
+export function updateBoard(boardId: string, ctxBody: IBoard): void {
+    let board = dbBoards.filter((board) => board.id === boardId)[0];
+    if (board) {
+    board.title = ctxBody.title;
+    board.columns = ctxBody.columns}
+}
+```
+
+and task from Codewars
+
+```
+var countBits = function(n) {
+  // Program Me
+      let res = 0;
+    let binaryN = n.toString(2)
+        // console.log(binaryN);
+    for (let index = 0; index < binaryN.length; index++) {
+        res += Number(binaryN[index])
+    }
+    return res
+};
+```
+I like to learn everything new in programming.
+Now, I study HTML, CSS, JavaScript, Node.js, TypeScript and a lot other usefull and interesting things at school.
+
+### Work experience ###
+I haven't experience in any IT but have it in my business.
+As engineer , I was created some electronic units on microcontrollers, and create programs for it on Assembler. At my job, developed specific database fo enterprise, payment accounting program for utilities, for cable TV.
+Just now i'm working as a sysadmin at own company and continue to support some businesses that do not have their own sysadmin.
+
+### Education ###
+Higher education: Yuri Gagarin State Technical University of Saratov (modern name). Engineer, specialty automation and telemechanics.
+
+### Self-education ###
+Platforms 1C6, 1C7, 1C8 Enterprise. in the process of studying: JavaScript, Node.js;
+Study to familiarize Java for Android, Python;
+I use IDE IntelliJ IDEA & PyCharm by JetBrains and AndroidStudio, Visual Studio Code.
+
+2021 - 2022 THE ROLLING SCOPES SCHOOL JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)
+
+### Expierence ###
+Here's some completed tasks:
+
+* from RS School FrontEnd course stage 0 
+
+https://rolling-scopes-school.github.io/alitalia60-JSFEPRESCHOOL/tic-tac-toe/
+
+* and from RS SChool Node.js course
+
+https://github.com/Alitalia60/simple-crud-api/tree/simple_crud_api
+
+
+### Languages ###
+Russian - perfectly
+English - A2 (Pre-Intermediate). Haven't practice.
