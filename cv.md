@@ -50,7 +50,7 @@ Higher education: Yuri Gagarin State Technical University of Saratov (modern nam
 Platforms 1C6, 1C7, 1C8 Enterprise. in the process of studying: JavaScript, Node.js;
 Study to familiarize Java for Android, Python;
 I use IDE IntelliJ IDEA & PyCharm by JetBrains and AndroidStudio, Visual Studio Code.
-2022 - RS School PreSchool Front End courses
+2021 - 2022 RS School PreSchool Front End courses
 
 ### Expierence ###
 Here's some tasks from RS School FrontEnd course stage 0 
