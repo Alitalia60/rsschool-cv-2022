@@ -135,13 +135,14 @@ h2 {
     text-decoration: none;
     /* transition-duration: 0.5s; */
 }
+
 /* 
 .contact__item>a:hover {
     color: red;
     text-decoration: none;
 } */
 
-.colored-link:hover{
+.colored-link:hover {
     color: red;
     transition-duration: 0.5s;
     /* text-decoration: none; */
@@ -212,4 +213,13 @@ h2 {
 
 .footer__link {
     display: inline-block;
+}
+
+.skills__code-example {
+    font-size: 16px;
+}
+
+pre {
+    font-size: 12px;
+    background-color: rgb(236, 230, 223);
 }
