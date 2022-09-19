@@ -133,12 +133,18 @@ h2 {
 .contact__item>a {
     color: white;
     text-decoration: none;
-    transition-duration: 0.5s;
+    /* transition-duration: 0.5s; */
 }
-
+/* 
 .contact__item>a:hover {
     color: red;
     text-decoration: none;
+} */
+
+.colored-link:hover{
+    color: red;
+    transition-duration: 0.5s;
+    /* text-decoration: none; */
 }
 
 .right__side {
@@ -178,9 +184,9 @@ h2 {
     font-style: italic;
 }
 
-.nav__item>a:hover {
+/* .nav__item>a:hover {
     color: red;
-}
+} */
 
 .right__side_content {
     padding: 30px;
